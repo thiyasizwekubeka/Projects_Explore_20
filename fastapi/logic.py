@@ -1,4 +1,4 @@
-## CMD to run the script: uvicorn logic:app --reload
+## CMD to run the script: 'uvicorn logic:app --reload'
 
 
 
